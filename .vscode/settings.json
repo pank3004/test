@@ -1,6 +1,5 @@
 {
   "workbench.colorTheme": "Default Dark+",
   "workbench.preferredDarkColorTheme": "Default Dark+",
-  "task.allowAutomaticTasks": "on",
-  "workbench.editor.enablePreview": true
+  "task.allowAutomaticTasks": "on"
 }

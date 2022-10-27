@@ -4,7 +4,7 @@
     {
       "label": "Running your app...",
       "type": "shell",
-      "command": "g++ hello.c -o hello && ./hello",
+      "command": "g++ hello.cpp -o hello && ./hello",
       "presentation": {
         "reveal": "always",
         "panel": "new"

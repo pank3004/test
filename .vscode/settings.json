@@ -5,6 +5,5 @@
   "workbench.startupEditor": "readme",
   "workbench.editorAssociations": {
     "*.md": "vscode.markdown.preview.editor"
-  },
-  "security.workspace.trust.startupPrompt": "never"
+  }
 }

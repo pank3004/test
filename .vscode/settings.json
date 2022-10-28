@@ -2,6 +2,7 @@
   "workbench.colorTheme": "Default Dark+",
   "workbench.preferredDarkColorTheme": "Default Dark+",
   "task.allowAutomaticTasks": "on",
+  "workbench.startupEditor": "readme",
   "workbench.editorAssociations": {
     "*.md": "vscode.markdown.preview.editor"
   }

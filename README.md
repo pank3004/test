@@ -1,4 +1,4 @@
-# neurolab-cpp
+# lab-cpp
 
 Command to run hello.cpp file:
 

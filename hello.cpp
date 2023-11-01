@@ -1,9 +1,16 @@
-// C++ program to display "Hello World"
-
 #include <iostream>
-using namespace std;
+#include <string>
 
 int main() {
-	cout << "Hello World\n";
-	return 0;
+    std::string userInput;
+
+    // Taking input from the user
+    std::cout << "Enter something: ";
+    std::getline(std::cin, userInput);
+
+    // Printing the input back
+    std::cout << "You entered: " << userInput << std::endl;
+
+    return 0;
+    // my name is pankkjdaskdfjiofjaifjadfai
 }
